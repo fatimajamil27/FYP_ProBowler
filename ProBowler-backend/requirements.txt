@@ -1,0 +1,9 @@
+flask
+flask-cors
+flask-bcrypt
+pymongo
+dnspython
+python-dotenv
+mediapipe
+opencv-python
+numpy
